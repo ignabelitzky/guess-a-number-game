@@ -10,12 +10,10 @@ CONFIG += c++11
 
 SOURCES += \
     main.cpp \
-    mainwindow.cpp \
-    randomnumber.cpp
+    mainwindow.cpp
 
 HEADERS += \
-    mainwindow.h \
-    randomnumber.h
+    mainwindow.h
 
 FORMS += \
     mainwindow.ui
